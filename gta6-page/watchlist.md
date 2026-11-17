@@ -7,6 +7,7 @@ What to monitor for news, clips and trends. Scan official sources every 2 to 3 h
 | Source | Where | What for |
 |---|---|---|
 | Rockstar Games: GTA 6 page + Media section | rockstargames.com/VI | Official screenshots, artwork, trailers, dates |
+| GTA 6 launch trailer | [Rockstar Newswire](https://www.rockstargames.com/newswire/article/517572321a549a/watch-the-grand-theft-auto-vi-launch-trailer) | Official footage for launch posts (L1, L2) |
 | Rockstar Newswire | rockstargames.com/newswire | Announcements |
 | Rockstar Support | support.rockstargames.com | Unlock times, preload, known issues |
 | @RockstarGames | X, Instagram, TikTok, YouTube | Breaking official news, trailer clips |
@@ -16,8 +17,10 @@ What to monitor for news, clips and trends. Scan official sources every 2 to 3 h
 
 ## Creators and streamers (target: 20+)
 
-Fill on Day 2. Prioritize creators in **early time zones** (New Zealand, Australia) for launch, and
-creators who allow sharing with credit. Note permission status for each.
+Fill from the Wed Nov 18 NZ/AU launch streams: whoever has the funniest moments and clearest tips.
+Look in the Twitch and Kick "Grand Theft Auto VI" categories (English, sorted by viewers), YouTube live,
+and TikTok search "GTA 6" sorted by latest. Prefer creators who allow sharing with credit. Note permission
+status for each.
 
 | Creator | Platform(s) | Time zone / region | Content type | Permission to share? | Notes |
 |---|---|---|---|---|---|

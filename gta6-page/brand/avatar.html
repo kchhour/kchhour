@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Wasted &amp; Wise avatar</title>
+<style>
+  html, body { margin: 0; padding: 0; }
+  body { width: 1080px; height: 1080px; background: #14071f; overflow: hidden; }
+  .wrap { position: relative; width: 1080px; height: 1080px;
+          background: radial-gradient(circle at 50% 42%, #3a1152 0%, #14071f 70%); }
+  /* retro sunset sun, striped lower half */
+  .sun { position: absolute; left: 190px; top: 150px; width: 700px; height: 700px; border-radius: 50%;
+         background: linear-gradient(180deg, #ffd166 0%, #ff8a3d 45%, #ff3d7f 100%);
+         -webkit-mask: linear-gradient(180deg,
+            #000 0 54%, transparent 54% 57%, #000 57% 65%, transparent 65% 69%,
+            #000 69% 76%, transparent 76% 81%, #000 81% 87%, transparent 87% 93%, #000 93% 100%);
+         mask: linear-gradient(180deg,
+            #000 0 54%, transparent 54% 57%, #000 57% 65%, transparent 65% 69%,
+            #000 69% 76%, transparent 76% 81%, #000 81% 87%, transparent 87% 93%, #000 93% 100%); }
+  .mark { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center;
+          font-family: "Inter Display", "Inter", sans-serif; font-weight: 900; color: #fff;
+          font-size: 250px; letter-spacing: -9px; line-height: 1;
+          text-shadow: 0 10px 0 #14071f, 0 0 40px rgba(20,7,31,.55); padding-top: 10px; }
+  .amp { color: #14071f; font-size: 175px; margin: 0 6px; text-shadow: none;
+         -webkit-text-stroke: 8px #fff; paint-order: stroke fill; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="sun"></div>
+    <div class="mark">W<span class="amp">&amp;</span>W</div>
+  </div>
+</body>
+</html>

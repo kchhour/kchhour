@@ -3,28 +3,70 @@
 This is the setup prompt, customized for our page. Anything still in **[BRACKETS]** is waiting on the
 setup answers (section 2). Update this file whenever the weekly review changes a rule (section 13).
 
-## Page profile (fill from the section 2 answers)
+## Page profile (setup answers, Nov 17, 2026)
 
 | Setting | Value |
 |---|---|
-| Page name | [PAGE NAME] |
-| Handle | @[HANDLE] |
-| Platforms already created | [PLATFORMS] |
-| Niche angle (one main lane) | [NICHE ANGLE] |
-| Time zone | [TIME ZONE] |
-| Hours awake to approve posts | [APPROVAL HOURS] |
-| Scheduler | [SCHEDULER, default Buffer] |
-| Clipping tool | [CLIPPING TOOL, e.g. OpusClip or Klap, or none] |
-| Editor | [EDITOR, e.g. CapCut or ffmpeg] |
-| Storage | [STORAGE, e.g. Google Drive or a local folder] |
-| Can the AI use the tools directly, or does the owner click? | [TOOL ACCESS] |
-| Posts per day per platform | [POSTS PER DAY] (suggested: X 4–6, Instagram 1–2 Reels, TikTok and Shorts 1–3) |
-| Needs approval before posting | [APPROVAL RULES] (suggested: anything outside the normal mix, any rumor, any caption that could read as official) |
-| Creators we like | [CREATORS TO USE] |
-| Creators to avoid | [CREATORS TO AVOID] |
-| Voiceover style | [AI voice / text-only / own voice off camera] |
+| Page name | **Wasted & Wise** (display name: `Wasted & Wise \| GTA 6 Tips`). "Wasted" covers the funny moments, "Wise" covers the tips. |
+| Handle | **@wastedwise.gta6**, same on both platforms. Fallbacks in order: `@wastedwise_gta6`, `@wastedwisegta6`, `@gta6.wastedwise`. Availability not checked yet. |
+| Platforms | Instagram, TikTok (not created yet) |
+| Niche angle | **Tips + funny moments.** Tips are the identity (HOW TO, utility, saves). Funny moments are the clip supply (NPCs, chaos, fails). |
+| Time zone | Eastern, America/New_York (EST in November) |
+| Hours awake to approve posts | 8:00 AM – 10:30 PM ET |
+| Scheduler | None yet. Post natively in the Instagram and TikTok apps. Buffer is optional later. Ask before any paid plan. |
+| Clipping tool | None yet. OpusClip / Klap free tiers are optional later, for long streams. |
+| Editor | None yet. Suggested: CapCut (free), which has vertical crop, auto captions and text-to-speech. |
+| Storage | None yet. Suggested: a Google Drive folder that mirrors `media/` (`official/`, `raw/`, `edits/`). |
+| Can the AI use the tools directly, or does the owner click? | **Owner clicks.** AI drafts captions, on-screen hooks and voice scripts, verifies facts, makes graphics, and keeps these files up to date. |
+| Posts per day | **4–6 total, split between Instagram and TikTok.** Default: 2–3 videos a day, each posted to both. |
+| Needs approval before posting | **Every post.** The AI sends the exact caption + media in one message and the owner replies "yes". |
+| Creators we like | None yet. Build the list from launch streams (`watchlist.md`). |
+| Creators to avoid | None yet |
+| Voiceover style | **AI voice**: text-to-speech in CapCut, TikTok or Instagram. Never clone or imitate a real person's voice (voice actors, streamers, Rockstar characters). |
 
-**Status:** setup questions sent, waiting on answers. No posting until questions 1–4 are answered.
+**Bio** (79 characters, fits TikTok's 80 limit):
+
+```
+GTA 6 tips + funny moments daily. Fan page, not affiliated with Rockstar Games.
+```
+
+**Avatar:** `brand/avatar.png` (made by us: retro sunset + W&W letter mark, no Rockstar art).
+Instagram and TikTok have no banner, so section 3's banner step doesn't apply.
+
+**Daily slots (ET).** Each slot posts the same video to TikTok and Instagram (Reels):
+
+| Slot | Default pillar |
+|---|---|
+| 11:30 AM | Tip (HOW TO) |
+| 6:30 PM | Funny moment clip |
+| 9:00 PM (optional 3rd) | Whichever pillar is winning on the scoreboard |
+
+X slots in section 4 don't apply until we add X.
+
+**Status:** setup answered. Next: check the handle, create both accounts, post the unlock-times card
+before Wed 6:00 AM ET.
+
+## Launch-week plan (ET)
+
+GTA 6 unlocks at midnight local time (facts V1, V2), so New Zealand gets it Wed 6:00 AM ET and the US
+gets it at midnight Wed night. All of Wednesday, US players can't play yet but can watch NZ/AU streams.
+That's our "be first" window.
+
+- [ ] **Tue Nov 17 (tonight):** check the handle on both apps → create accounts → name, bio, avatar →
+  Instagram to Professional (Creator) → install CapCut → make the Drive folder → post the
+  **unlock-times card** (idea-bank L3) on both, after approval.
+- [ ] **Wed Nov 18, 8:00 AM:** quick check of Rockstar Newswire / @RockstarGames → post **L1** ("out in New
+  Zealand") → watch NZ/AU streams (Twitch and Kick GTA VI category, YouTube live) for funny moments and
+  early tips. Credit every clip, no story spoilers, hook + captions + AI voice on each.
+- [ ] **Wed evening:** question post (L4) before the US unlock. Start `watchlist.md` creators from whoever
+  had the best streams today.
+- [ ] **Thu Nov 19 (US launch day):** L5 question in the morning, then tips from what players keep
+  asking, plus funny clips. Log every post.
+- [ ] **Fri Nov 20 – Sun Nov 22:** normal slots. First 24h reads. First one-variable test.
+- [ ] **Mon Nov 23 (Day 7):** first weekly review (section 13), update this file.
+
+Cap is 4–6 posts a day. Section 10 suggests every 1–2 hours for the first 48h. Going above 6 on launch
+days needs the owner's OK.
 
 ---
 
@@ -297,9 +339,8 @@ PlayStation's support page says it unlocks at midnight local time. That means pl
 zones (New Zealand and Australia) play first, many hours before the Americas. That's where the first real
 gameplay comes from.
 
-> Setup note: the date and the midnight-local unlock are still in the *Pending* table of `facts.md`
-> until checked against the official pages. If midnight-local holds, New Zealand (UTC+13 in November)
-> unlocks at **Nov 18, 11:00 UTC**, which is Nov 18 6:00 AM ET / 3:00 AM PT.
+> Verified (facts V1, V2): midnight local time in all regions on PS5 and Xbox Series X|S, starting in
+> New Zealand. That's **Wed Nov 18, 6:00 AM ET**. The full table in ET is in `facts.md`.
 
 **Before launch:**
 
