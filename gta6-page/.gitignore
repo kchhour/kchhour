@@ -1,0 +1,4 @@
+# Keep video/image files out of git: they're large and mostly other people's content.
+# They live in the storage named in playbook.md; only the folder placeholders are committed.
+media/*/*
+!media/*/.gitkeep
